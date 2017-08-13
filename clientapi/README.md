@@ -20,4 +20,4 @@ info: To shut down Sails, press <CTRL> + C at any time.
 Routes | Param
 --- | ---
 localhost:1337/users/Create | ?<key>=<value>&<another_key>=<another_value>
-localhost:1337/users/update/ | <id>?<key>=<value>&<another_key>=<another_value>
+localhost:1337/users/update/<id> | ?<key>=<value>&<another_key>=<another_value>
