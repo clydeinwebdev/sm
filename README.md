@@ -3,8 +3,8 @@
 ## Todos
 
 - [ ] UI/UX
- - [ ] Sign In
- - [ ] Dashboard
- - [ ] Products
- - [ ] Categories
- - [ ] Stocks
+  - [ ] Sign In
+  - [ ] Dashboard
+  - [ ] Products
+  - [ ] Categories
+  - [ ] Stocks
